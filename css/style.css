@@ -1,0 +1,57 @@
+.container {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+}
+
+.search {
+    background-color: #DCDCDC;
+    width: 1200px;
+    height: 80px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.location {
+    text-align: center;
+}
+
+#text-box {  
+   width: 300px;
+   clear:right;
+   
+}
+
+.h-80 {
+    height: 80px;
+}
+.div-h {
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.div-2 {
+    width: 490px;
+    background-color: aquamarine;
+    text-align: center;
+    float: left;
+    height: 70px;
+    padding-top: 10px;
+}
+
+.div-3 {
+    background-color: rgb(60, 218, 165);
+    text-align: center;
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.div-4 {
+    background-color: rgb(26, 175, 125);
+    text-align: center;
+    width: 390px;
+    float: left;
+}
